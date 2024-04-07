@@ -1,1 +1,1 @@
-# weather-app
+A page to get the temperature of each city and the type of weather in the city and what the minimum and maximum temperature of that city is, which is used from the site openweathermap to take api, and its framework is React JS.
